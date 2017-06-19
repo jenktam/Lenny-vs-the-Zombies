@@ -6,7 +6,6 @@ using UnityEngine.UI;
 
 public class OnGoalEnter : MonoBehaviour {
 
-    public Text wonLevelText;
     public Text goalText;
     public Canvas nextLevelCanvas;
 
@@ -15,7 +14,6 @@ public class OnGoalEnter : MonoBehaviour {
         if (other.gameObject.CompareTag("Player"))
         {
             goalText.text = "";
-            wonLevelText.text = "Lenny was able to run away from the zombies this time. Lenny runs to the castle to warn the rest of his town before it's too late!";
             //Destroy(other.gameObject);
             //StartCoroutine(LoadLevel("test", 10.0f));
             LoadNextLevel();
