@@ -14,17 +14,9 @@ public class OnGoalEnter : MonoBehaviour {
         if (other.gameObject.CompareTag("Player"))
         {
             goalText.text = "";
-            //Destroy(other.gameObject);
-            //StartCoroutine(LoadLevel("test", 10.0f));
             LoadNextLevel();
         }
     }
-
-    //IEnumerator LoadLevel(string level, float waitTime)
-    //{
-    //    yield return new WaitForSeconds(waitTime);
-    //    Application.LoadLevel("Level02");
-    //}
 
     public void LoadNextLevel()
     {

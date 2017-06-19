@@ -1,5 +1,5 @@
 # Bombardment
 
-All Lenny wants to do is sleep in. He's had a rough week handling all of the family duties since his parents went out of town. However, he wakes up one morning and finds his their place is bombarded with zombies.
+Lenny is having a rough week. He wakes up one morning to find his town is flooded with zombies. He searches the town to find he is the only human there. No sounds of screaming or dead corpses. It seems as if everyone just disappeared. Where is everyone and where did the zombies come from?!
 
-Play as Lenny in this first-person shooter game. You are luckily equipped with a rifle but can you escape in time?
+Play as Lenny in this first-person shooter game to ward off the zombies and find reinforcement. Can you escape in time?
