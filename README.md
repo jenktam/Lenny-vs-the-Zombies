@@ -6,4 +6,9 @@ Lenny is having a rough week. He wakes up one morning to find his town is floode
 
 Play as Lenny in this first-person shooter game to ward off the zombies and find reinforcement. Can you escape in time?
 
+## Build
+* Unity 3D
+* C#
+
+## Where Can I Play?
 [Download here](https://jenktam.itch.io/lenny-vs-the-zombies)
