@@ -11,4 +11,5 @@ Play as Lenny in this first-person shooter game to ward off the zombies and find
 * C#
 
 ## Where Can I Play?
+[Trailer](https://youtu.be/jsoFTFeLc8E)
 [Download here](https://jenktam.itch.io/lenny-vs-the-zombies)
