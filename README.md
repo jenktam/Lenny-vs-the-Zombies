@@ -1,6 +1,6 @@
 # Lenny vs the Zombies
 
-![image](https://cdn.pbrd.co/images/1Z0DIwfai.png)
+![lennyVsZombies](https://user-images.githubusercontent.com/10392876/190717495-7442a23f-5ad1-40c2-8baa-c7517e568d08.png)
 
 Lenny is having a rough week. He wakes up one morning to find his town is flooded with zombies. He searches the town to find he is the only human there. No sounds of screaming or dead corpses. It seems as if everyone just disappeared. Where is everyone and where did the zombies come from?!
 
